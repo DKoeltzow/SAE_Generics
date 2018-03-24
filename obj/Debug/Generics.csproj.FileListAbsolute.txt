@@ -1,0 +1,12 @@
+D:\SAE\Unterrichte\Generics\Generics\bin\Debug\Generics.exe.config
+D:\SAE\Unterrichte\Generics\Generics\bin\Debug\Generics.exe
+D:\SAE\Unterrichte\Generics\Generics\bin\Debug\Generics.pdb
+D:\SAE\Unterrichte\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+D:\SAE\Unterrichte\Generics\Generics\obj\Debug\Generics.exe
+D:\SAE\Unterrichte\Generics\Generics\obj\Debug\Generics.pdb
+E:\Programming\C#\Generics\bin\Debug\Generics.exe.config
+E:\Programming\C#\Generics\obj\Debug\Generics.exe
+E:\Programming\C#\Generics\obj\Debug\Generics.pdb
+E:\Programming\C#\Generics\bin\Debug\Generics.exe
+E:\Programming\C#\Generics\bin\Debug\Generics.pdb
+E:\Programming\C#\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
